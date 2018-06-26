@@ -13,7 +13,8 @@
     "express": "~4.16.0",
     "formidable": "^1.2.1",
     "http-errors": "~1.6.2",
-    "jszip": "^3.1.5",
+    "jszip": "^2.6.1",
+    "jszip-utils": "0.0.2",
     "morgan": "~1.9.0"
   }
 }
